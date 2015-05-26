@@ -18,7 +18,7 @@
 
     <servlet-mapping>
         <servlet-name>${artifactId}</servlet-name>
-        <url-pattern>*.htm</url-pattern>
+        <url-pattern>/</url-pattern>
     </servlet-mapping>
     
     <listener>
@@ -84,7 +84,5 @@
         <error-code>404</error-code>
         <location>/404.htm</location>
     </error-page-->
-    <welcome-file-list>
-        <welcome-file>home.htm</welcome-file>
-    </welcome-file-list>
+   
 </web-app>
