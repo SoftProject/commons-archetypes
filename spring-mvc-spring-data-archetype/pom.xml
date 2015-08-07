@@ -10,10 +10,10 @@
 
     <groupId>pl.com.softproject.archetypes.springmvc</groupId>
     <artifactId>spring-mvc-spring-data-archetype</artifactId>
-    <version>2.0</version>
+    <version>2.1</version>
     <packaging>jar</packaging>
     <name>Spring MVC and Spring Data Maven Archetype: Quickstart</name>
-    <description>Spring 4.x, Spring Security 3.1 i tagliby, SpringData, JPA, Hibernate</description>
+    <description>Spring 4.x, Spring Security 3.1 i tagliby, SpringData, JPA, Hibernate, Jackson, REST</description>
   
     <distributionManagement>
         
